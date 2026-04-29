@@ -1,0 +1,29 @@
+[
+    {
+        "car_id": "c24_bal_2021_blr_042",
+        "make": "Maruti",
+        "model": "Baleno",
+        "variant": "Delta MT",
+        "year": 2021,
+        "fuel_type": "petrol",
+        "transmission": "manual",
+        "km_driven": 26000,
+        "price_onroad": 680000,
+        "city": "Bengaluru",
+        "rto_state": "KA",
+        "available": true,
+        "inspection_score": 87.5,
+        "warranty_months_left": 0,
+        "resale_index": 0.82,
+        "color": "Arctic White",
+        "owner_count": 1,
+        "inspection_summary": {
+            "engine": "good",
+            "suspension": "good",
+            "ac": "good",
+            "electricals": "good",
+            "flags": []
+        },
+        "attributes_text": "Maruti Baleno 2021 petrol hatchback city driving excellent fuel efficiency low maintenance strong resale value first car ideal beginner reliable"
+    }
+]
