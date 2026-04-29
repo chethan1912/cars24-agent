@@ -1,7 +1,7 @@
 from sqlalchemy.orm import Session
 from sqlalchemy import and_, or_
 from db.schemas import Car
-from db.postgres import get_db
+from db.database import get_db
 from core.models import BuyerProfile
 from typing import Optional
 

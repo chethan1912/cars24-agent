@@ -6,7 +6,7 @@ class Settings(BaseSettings):
     # Anthropic
     anthropic_api_key: str
 
-    # Postgres
+    # Database
     database_url: str
 
     # Redis

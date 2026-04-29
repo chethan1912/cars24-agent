@@ -1,6 +1,6 @@
 from fastapi import Depends
 from sqlalchemy.orm import Session
-from db.postgres import get_db as get_db_session
+from db.database import get_db as get_db_session
 from services.session_service import SessionService
 
 
